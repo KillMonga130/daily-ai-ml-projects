@@ -92,5 +92,5 @@ Building real-time systems with AI integration
 Contributing
 This is a personal learning project. Feel free to fork the repository or suggest improvements through pull requests if you’re following along or interested in collaborating.
 
-##License
+## License
 This repository is open-source and available under the MIT License.
