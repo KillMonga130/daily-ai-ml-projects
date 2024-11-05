@@ -80,8 +80,8 @@ Each project folder contains code, data, and relevant documentation for implemen
    cd daily-ai-ml-projects
 
 
-##Learning Goals
-#Through this project series, you'll gain hands-on experience in:
+## Learning Goals
+# Through this project series, you'll gain hands-on experience in:
 
 Data preprocessing and feature engineering
 Supervised and unsupervised machine learning techniques
